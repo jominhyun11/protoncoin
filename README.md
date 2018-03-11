@@ -6,7 +6,7 @@ Proton Coin @ 4CNE.COM
 http://4cne.com:81
 
 
-Fee : Only [b]0.5[/b]%.
+Fee : Only 0.5%.
 Payouts : Every 3 hour.
 
 Come and join minig!
