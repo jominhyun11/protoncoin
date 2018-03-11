@@ -1,9 +1,31 @@
-Proton Core 1.0.5
+Protoncoin mining start
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/protoncoin/protoncoin.svg?branch=master)](https://travis-ci.org/protoncoin/protoncoin)
+Proton Coin @ 4CNE.COM
 
-https://protoncoin.io
+http://4cne.com:81
+
+
+Fee : Only [b]0.5[/b]%.
+Payouts : Every 3 hour.
+
+Come and join minig!
+
+
+
+MINER PROGRAM EX
+-------------------------
+ccminer -a neoscrypt -o stratum+tcp://4cne.com:4233 -u <WALLET_ADDRESS> -p c=PTO
+
+Wallet join is website  (http://4cne.com:81/?address)
+
+
+Pool host: 4cne.com
+Pool port: 4233
+Pool user: Your_Wallet_Address
+Pool pass: c=PTO	
+Algorithm: NEOSCRYPT
+
 
 
 What is Proton?
